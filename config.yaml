@@ -1,0 +1,9 @@
+path: C:\Users\Administrator\Desktop\test\"New folder" 
+train: image/
+val: image/
+
+names:
+  0: no_tumor
+  1: glioma 
+  2: peraglima
+  3: pilena
